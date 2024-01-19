@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sandhya+Yadav!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
  
  🔭 I’m currently in 3rd Year of my B.tech degree.
  
- 🌱 I’m currently learning **Node, Express, Mongodb**
+ 🌱 I’m currently learning **React , Javascript**
 
 💬 Discuss with me about **React, Javascript or frontend**<br>
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,c++" /><br>
 </div>
 
